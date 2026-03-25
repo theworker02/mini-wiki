@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" fill="none" role="img" aria-label="Mini Wiki Logo">
+  <defs>
+    <linearGradient id="a" x1="28" y1="34" x2="194" y2="196" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#0EA5E9"/>
+    </linearGradient>
+  </defs>
+  <rect x="18" y="18" width="184" height="184" rx="40" fill="#0F172A"/>
+  <path d="M66 72C66 63.163 73.163 56 82 56H110V164H82C73.163 164 66 171.163 66 180V72Z" fill="url(#a)"/>
+  <path d="M154 72C154 63.163 146.837 56 138 56H110V164H138C146.837 164 154 171.163 154 180V72Z" fill="#38BDF8"/>
+  <circle cx="56" cy="52" r="10" fill="#38BDF8"/>
+  <circle cx="164" cy="48" r="9" fill="#2563EB"/>
+  <circle cx="176" cy="162" r="11" fill="#0EA5E9"/>
+  <path d="M66 62L88 76" stroke="#7DD3FC" stroke-width="4" stroke-linecap="round"/>
+  <path d="M154 58L132 78" stroke="#60A5FA" stroke-width="4" stroke-linecap="round"/>
+  <path d="M156 154L134 142" stroke="#7DD3FC" stroke-width="4" stroke-linecap="round"/>
+</svg>
