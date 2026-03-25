@@ -177,5 +177,6 @@ mini-wiki/
 - [LICENSE](./LICENSE)
 
 
-## Website
-https://mini-wiki-1.vercel.app/
+## 🚀 Live Demo
+
+[Open App](https://mini-wiki-1.vercel.app)
